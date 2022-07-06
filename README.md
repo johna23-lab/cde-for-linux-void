@@ -14,6 +14,10 @@ Instalador y xbps testado en Void Minimal oficial y <a href="https://archive.org
 6-Selecciona CDE en la opción del LXDM ¡¡y ya está!!</br>
 
 ![Screenshot](https://github.com/johna23-lab/cde-for-linux-void/blob/main/cde-2022-07-05.png?raw=true)
+<i>Original desktop and terminal</i>
+
+![Screenshot](https://github.com/johna23-lab/cde-for-linux-void/blob/main/cde_custom_2.png?raw=true)
+<i>Customized desktop and qterminal</i>
 
 CDE 2.4.0 compiled and created xbps package for Linux Void</br>
 Installer and xbps tested on Void Minimal official and <a href="https://archive.org/details/void-live-x86_64-20220621-lxqt">F-void_BUILD 21-06-2022</a></br>
