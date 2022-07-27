@@ -24,6 +24,7 @@ sed -i '/export dtstart/aautorandr --save workstation1' .dtprofile
 sed -i '/export dtstart/axrandr --output $scr --mode 1024x768' .dtprofile
 sed -i '/export dtstart/ascr="$(DISPLAY=:0 xrandr | grep primary | awk '"'{ print \$\1 }'"')"' .dtprofile
 
+mkdir -p $HOME/.dt/sessions/
 echo 'devmon --info-on-mount --sync --exec-on-drive "/usr/dt/bin/dtfile -folder %d" --exec-on-video "vlc --verbose=-1 dvd://%f" --exec-on-audio "vlc --verbose=-1 cdda://%f" & ' >$HOME/.dt/sessions/sessionetc
 
 echo killall devmon >$HOME/.dt/sessions/sessionexit
