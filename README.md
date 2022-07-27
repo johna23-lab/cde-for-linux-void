@@ -6,9 +6,9 @@ Instalador y xbps testado en Void Minimal oficial y <a href="https://archive.org
 
 <b>Para instalarlo</b>: </br>
 0-Actualiza el sistema <b>sudo xbps-install -Suv</b></br>
-1-Baja el fichero <b>cde_installer_05072022_b2.sh</b></br>
-2-Dále permisos <b>chmod +x cde_installer_05072022_b2.sh</b> </br>
-3-Ejecútalo <b>./cde_installer_05072022_b2.sh</b></br>
+1-Baja el fichero <b>cde_installer_27_07_2022.sh</b></br>
+2-Dále permisos <b>chmod +x cde_installer_27_07_2022.sh</b> </br>
+3-Ejecútalo <b>./cde_installer_27_07_2022.sh</b></br>
 4-Espera un rato, las descargas son algo lentas</br>
 5-Si todo ha ido bien reinicia el sistema</br>
 6-Selecciona CDE en la opción del LXDM ¡¡y ya está!!</br>
@@ -29,9 +29,9 @@ Installer and xbps tested on Void Minimal official and <a href="https://archive.
 
 <b>How install it</b>: </br>
 0-Upgrade the system <b>sudo xbps-install -Suv</b></br>
-1-Download the file <b>cde_installer_05072022_b2.sh</b></br>
-2-Give it permissions <b>chmod +x cde_installer_05072022_b2.sh</b> </br>
-3-Run it <b>./cde_installer_05072022_b2.sh</b></br>
-4-Wait a while, downloads are a bit slow.</br>
+1-Download the file <b>cde_installer_27_07_2022.sh</b></br>
+2-Give it permissions <b>cde_installer_27_07_2022.sh</b> </br>
+3-Run it <b>./cde_installer_27_07_2022.sh</b></br>
+4-Wait a while, sometimes downloads are a bit slow.</br>
 5-If everything went well, reboot the system.</br>
 6-Select CDE in the LXDM option and that's it!!!
