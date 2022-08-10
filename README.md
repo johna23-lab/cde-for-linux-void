@@ -34,3 +34,8 @@ Installer and xbps tested on Void Minimal official and <a href="https://archive.
 4-Wait a while, sometimes downloads are a bit slow.</br>
 5-If everything went well, reboot the system.</br>
 6-Select CDE in the LXDM option and that's it!!!
+
+Installing Void from CDE?!
+
+![installing_void_in_cde](https://user-images.githubusercontent.com/84197353/184027338-c0925efa-01aa-4258-9883-48ce534bb42c.png)
+
